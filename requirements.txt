@@ -1,0 +1,9 @@
+transformers==4.30.2
+torch==2.0.1
+datasets==2.11.0
+sentence-transformers==2.2.2
+sacrebleu==2.3.1
+rouge-score==0.1.2
+language-tool-python==2.7.0
+tqdm==4.65.0
+python-pptx==0.6.21

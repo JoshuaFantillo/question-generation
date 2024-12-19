@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "context": "Title: Photosynthesis Overview\nPhotosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. Photosynthesis generally involves the green pigment chlorophyll and generates oxygen as a by-product.",
+        "questions": [
+            "Which of these is a by-product of photosynthesis?",
+            "What is chlorophyll?"
+        ]
+    },
+    {
+        "id": "1",
+        "context": "This process occurs primarily in plant leaves, specifically within chloroplasts. There are two main stages in photosynthesis: the light-dependent reactions and the Calvin cycle. During the light-dependent reactions, sunlight is absorbed, and energy is stored in the form of ATP and NADPH. The Calvin cycle then uses this energy to convert carbon dioxide into glucose.",
+        "questions": [
+            "How is photosynthesis related to photosynthesis?",
+            "What is the main stage in photosynthesis?"
+        ]
+    },
+    {
+        "id": "2",
+        "context": "Plants rely on photosynthesis not only to produce their own food but also to release oxygen, which is essential for the survival of many organisms, including humans. Factors like light intensity, carbon dioxide concentration, and temperature can influence the rate of photosynthesis.",
+        "questions": [
+            "What factors can influence the rate of photosynthesis?",
+            "What do plants need to survive?"
+        ]
+    }
+]

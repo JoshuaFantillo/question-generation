@@ -1,0 +1,31 @@
+# Ignore the models/ folder
+models/
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore environment files
+.env
+venv/
+*.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore outputs
+*.out
+*.tmp
+
+# Ignore IDE-specific settings
+.vscode/
+.idea/
+*.swp

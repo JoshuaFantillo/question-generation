@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0",
+        "context": "The Importance of Renewable Energy Renewable energy sources include solar, wind, hydro, and geothermal energy. \nThey provide sustainable and eco-friendly alternatives to fossil fuels. \nTransitioning to renewable energy helps reduce carbon emissions and combat climate change.",
+        "questions": [
+            "What are renewable energy sources?",
+            "Which renewable energy source has the highest CO2 emissions?"
+        ]
+    },
+    {
+        "id": "1",
+        "context": "Solar Energy Basics Solar panels convert sunlight into electricity through photovoltaic cells.\nSolar energy is abundant, renewable, and can be used for residential and industrial purposes.\nKey benefits: low maintenance costs and reduced electricity bills.",
+        "questions": [
+            "What is the main idea of this article?",
+            "What is the main reason for solar power?"
+        ]
+    },
+    {
+        "id": "2",
+        "context": "Challenges in Renewable Energy Adoption Additional Notes - High initial installation costs for solar panels and wind turbines. Intermittent energy production depends on weather conditions. Need for improved energy storage solutions and grid infrastructure.",
+        "questions": [
+            "What are the Challenges in Renewable Energy Adoption?",
+            "What are some challenges to renewable energy adoption?"
+        ]
+    },
+    {
+        "id": "3",
+        "context": "Backyard of a house showing greenery House Picture",
+        "questions": [
+            "What is the backyard of a house showing greenery?",
+            "What is the home in the picture?"
+        ]
+    }
+]
