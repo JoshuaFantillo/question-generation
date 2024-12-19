@@ -7,11 +7,6 @@ This project fine-tunes a T5 model for text-to-question generation. The workflow
 
 ## Installation
 
-### Clone the repository to your local machine:
-```bash
-git clone <https://github.sfu.ca/jmf23/nlpclass-1247-g-ajs-nlp-group.git>
-cd </final-project>
-```
 ### Install required dependencies:
 ```bash
 pip install -r requirements.txt
